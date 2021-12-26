@@ -1,0 +1,19 @@
+.App {
+	text-align: center;
+}
+
+.pyramid {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+}
+
+.pyramid_row {
+	display: flex;
+}
+
+.pyramid_card {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
